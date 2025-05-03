@@ -6,25 +6,22 @@ This project investigates how weather conditions, road infrastructure, and socio
 
 #### 📁 Project Structure
 
-├── data/
-│ ├── crashes/ # TIMS crash datasets (San Diego)
-│ ├── weather-datasets/ # Historical weather (2018–2024)
-│ ├── road_speed_volume.csv # SANDAG road features (speed, lanes, volume)
-│ ├── socioeconomic.csv # Homeownership, income, equity metrics
-│ ├── homeless_311.csv # 311 reports on homelessness
+"""├── data/
+│   ├── crashes/                  # TIMS crash datasets (San Diego)
+│   ├── weather-datasets/        # Historical weather (2018–2024)
+│   ├── road_speed_volume.csv    # SANDAG road features (speed, lanes, volume)
+│   ├── socioeconomic.csv        # Homeownership, income, equity metrics
+│   ├── homeless_311.csv         # 311 reports on homelessness
 ├── notebooks/
-│ ├── 01_eda_visuals.ipynb # EDA and visualizations
-│ ├── 02_weather_road_merge.ipynb # Data cleaning and feature merging
-│ ├── 03_modeling.ipynb # Regression, feature importance
+│   ├── 01_eda_visuals.ipynb     # EDA and visualizations
+│   ├── 02_weather_road_merge.ipynb  # Data cleaning and feature merging
+│   ├── 03_modeling.ipynb        # Regression, feature importance
 ├── outputs/
-│ ├── figures/ # Exported charts (PNG)
-│ ├── processed/ # Cleaned and filtered data
-├── dashboard/ # Tableau or Power BI files
+│   ├── figures/                 # Exported charts (PNG)
+│   ├── processed/               # Cleaned and filtered data
+├── dashboard/                   # Tableau or Power BI files
 ├── README.md
-
-markdown
-Copy
-Edit
+"""
 
 ---
 
