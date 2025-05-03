@@ -6,7 +6,9 @@ This project investigates how weather conditions, road infrastructure, and socio
 
 #### 📁 Project Structure
 
-"""├── data/
+
+```
+├── data/
 │   ├── crashes/                  # TIMS crash datasets (San Diego)
 │   ├── weather-datasets/        # Historical weather (2018–2024)
 │   ├── road_speed_volume.csv    # SANDAG road features (speed, lanes, volume)
@@ -21,7 +23,7 @@ This project investigates how weather conditions, road infrastructure, and socio
 │   ├── processed/               # Cleaned and filtered data
 ├── dashboard/                   # Tableau or Power BI files
 ├── README.md
-"""
+```
 
 ---
 
