@@ -1,4 +1,4 @@
-# 🚦 San Diego Traffic Accident Analysis (2018–2024)
+# 🚦 San Diego Traffic Accident Analysis 
 
 This project investigates how weather conditions, road infrastructure, and socioeconomic factors influence traffic accidents in San Diego. By integrating multiple datasets—including crash reports, weather history, traffic volumes, and road features—the analysis identifies high-risk conditions, explores spatial and temporal trends, and builds predictive models for accident severity.
 
